@@ -4,5 +4,13 @@
         "psr-0" : {
             "richwestcoast\\test" : "src"
         }
-    }
+    },
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Richard Winder",
+            "email": "richardw@protonmail.ch"
+        }
+    ],
+    "minimum-stability": "stable"
 }
