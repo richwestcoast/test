@@ -2,7 +2,7 @@
     "name": "richwestcoast/test",
     "autoload": {
         "psr-0" : {
-            "richwestcoast\\test" : "src"
+            "richwestcoast\\test" : "src/richwestcoast/test"
         }
     },
     "license": "GPL-2.0",
