@@ -1,0 +1,8 @@
+{
+    "name": "richwestcoast/test",
+    "autoload": {
+        "psr-0" : {
+            "richwestcoast\\test" : "src"
+        }
+    }
+}
